@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 
-**shivarao101/shivarao101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 🔭 I’m currently working on fine-tuning open-source LLMs for domain-specific tasks (e.g., legal, healthcare, or code generation)
 
 🌱 I’m currently learning RLHF (Reinforcement Learning from Human Feedback), LoRA/QLoRA optimization, and inference acceleration techniques like vLLM
