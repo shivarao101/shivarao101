@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/LLM-Passionate-00BFFF?style=flat-square&logo=huggingface&logoColor=white&color=0A0A2A&labelColor=0A0A2A"/>
 </p>
 
-<!----- -->
-
-<!-- <h3 align="center" style="color: #00BFFF;">⚡ Neon Blue Edition ⚡</h3> -->
-
 ---
 
 ### 🔭 I'm currently working on
