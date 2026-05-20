@@ -1,13 +1,4 @@
-### 📫 How to reach me
 
-<p align="left">
-  <a href="https://github.com/shivarao101">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivaprasad-rao-a92b8219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 # 👋 Hi, I'm [Shivaprasad]
 
 I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** — from fine-tuning and alignment to efficient deployment.
@@ -39,8 +30,14 @@ I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** —
 
 ### 📫 How to reach me
 
-🐙 **GitHub:** [Shivaprasad](https://github.com/shivarao101)  
-💼 **LinkedIn:** [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/)
+<p align="left">
+  <a href="https://github.com/shivarao101">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivaprasad-rao-a92b8219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ### 😄 Pronouns
 He / Him — or — She / Her — or — They / Them *(adjust as you prefer)*
