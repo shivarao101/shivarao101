@@ -77,6 +77,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
+
+<p align="center">
   <i style="color: #00BFFF;">"Building intelligent systems, one transformer at a time."</i>
 </p>
 
