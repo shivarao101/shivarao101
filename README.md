@@ -42,11 +42,6 @@ I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** —
 ### 😄 Pronouns
 He / Him — or — She / Her — or — They / Them *(adjust as you prefer)*
 
-### ⚡ Fun fact
-The "T" in GPT stands for **Transformer** — the architecture introduced in 2017's "Attention Is All You Need" paper, which started the modern LLM revolution!
----
-⭐ *Always eager to discuss LLMs, open-source AI, and efficient ML systems.*
-
 ### 🛠️ Tech Stack (quick peek)
 `Python` `PyTorch` `Hugging Face` `LangChain` `FAISS` `vLLM` `FastAPI` `Docker`
 
