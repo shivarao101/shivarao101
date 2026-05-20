@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivarao101&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarao101&theme=radical&hide_border=true" width="45%"/>
+### 📫 How to reach me
+
+<p align="left">
+  <a href="https://github.com/shivarao101">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivaprasad-rao-a92b8219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 # 👋 Hi, I'm [Shivaprasad]
 
