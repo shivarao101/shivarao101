@@ -29,8 +29,12 @@ I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** —
 
 ### 📫 How to reach me
 - GitHub: [@Shivaprasad](https://github.com/shivarao101)
-- LinkedIn: [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/))
+- LinkedIn: [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/)
 - Email: shivarao101@gmail.com
+### 📫 How to reach me
+
+🐙 **GitHub:** [@Shivaprasad](https://github.com/shivarao101)  
+💼 **LinkedIn:** [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/)
 
 ### 😄 Pronouns
 He / Him — or — She / Her — or — They / Them *(adjust as you prefer)*
