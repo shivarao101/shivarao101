@@ -77,19 +77,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivarao101&show_icons=true&theme=blue-green&hide_border=true&bg_color=0A0A2A&title_color=00BFFF&icon_color=00BFFF&text_color=C0C0C0" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarao101&theme=blue-green&hide_border=true&background=0A0A2A&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</p>
-
-<p align="center">
   <i style="color: #00BFFF;">"Building intelligent systems, one transformer at a time."</i>
 </p>
 
