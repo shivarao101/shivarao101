@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivarao101&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarao101&theme=radical&hide_border=true" width="45%"/>
+</p>
 # 👋 Hi, I'm [Shivaprasad]
 
 I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** — from fine-tuning and alignment to efficient deployment.
@@ -28,12 +32,8 @@ I'm an **AI-ML Developer** passionate about **Large Language Models (LLMs)** —
 - Building production-ready RAG systems
 
 ### 📫 How to reach me
-- GitHub: [@Shivaprasad](https://github.com/shivarao101)
-- LinkedIn: [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/)
-- Email: shivarao101@gmail.com
-### 📫 How to reach me
 
-🐙 **GitHub:** [@Shivaprasad](https://github.com/shivarao101)  
+🐙 **GitHub:** [Shivaprasad](https://github.com/shivarao101)  
 💼 **LinkedIn:** [Shivaprasad](https://www.linkedin.com/in/shivaprasad-rao-a92b8219/)
 
 ### 😄 Pronouns
