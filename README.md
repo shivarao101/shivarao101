@@ -37,9 +37,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://orcid.org/YOUR-ORCID-ID">
+  <a href="https://orcid.org/0000-0002-0713-0938">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&color=A6CE39&labelColor=A6CE39"/>
 </a>
+  &nbsp;
+   <a href="https://vidwan.inflibnet.ac.in/profile/703267">
+    <img src="https://img.shields.io/badge/Vidwan-2C5282?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white&color=2C5282&labelColor=2C5282"/>
+  </a>
 </p>
 
 ### 😄 Pronouns
