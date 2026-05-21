@@ -36,6 +36,7 @@
   <a href="https://www.linkedin.com/in/shivaprasad-rao-a92b8219/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://orcid.org/YOUR-ORCID-ID">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&color=A6CE39&labelColor=A6CE39"/>
 </a>
