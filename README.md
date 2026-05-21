@@ -43,11 +43,7 @@
   &nbsp;
    <a href="https://vidwan.inflibnet.ac.in/profile/703267">
     <img src="https://img.shields.io/badge/Vidwan-2C5282?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white&color=2C5282&labelColor=2C5282"/>
-  </a>
-  &nbsp;
-  <a href="https://lakshya.vcetputtur.ac.in">
-  <img src="https://img.shields.io/badge/Virtual_Lab-FF5722?style=for-the-badge&logo=labview&logoColor=white&color=FF5722&labelColor=FF5722"/>
-</a>
+  </a>  
 </p>
 
 ### 😄 Pronouns
@@ -75,6 +71,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://lakshya.vcetputtur.ac.in">
+  <img src="https://img.shields.io/badge/Virtual_Lab-FF5722?style=for-the-badge&logo=labview&logoColor=white&color=FF5722&labelColor=FF5722"/>
+</a>
 </p>
 
 <p align="center">
